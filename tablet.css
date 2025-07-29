@@ -1,0 +1,22 @@
+.header #navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#contact .contacts .contact-left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+#contact .contacts .contact-left .contact{
+    text-align: center;
+}
+#contact .contacts .contact-right .form form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#contact .contacts .contact-right .form form label{
+    margin-top: 10px;
+}
